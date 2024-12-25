@@ -509,7 +509,7 @@ cloner() {
 
 #Menu
 clear
-echo -e "${cyan}By --> mahdiavis * Source Wireguard * ${rest}"
+echo -e "${cyan}By --> mahdiavis * Source Wireguard--* ${rest}"
 echo ""
 echo -e "${purple}**********************${rest}"
 echo -e "${purple}*  ${green}Endpoint Scanner ${purple} *${rest}"
